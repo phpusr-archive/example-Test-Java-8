@@ -8,7 +8,7 @@ import java.util.List;
  */
 
 /**
- * Мои эксперементы
+ * Мои эксперименты
  */
 public class MyExperiments {
 
